@@ -235,3 +235,12 @@ box-shadow:.5rem .875rem 2.375rem rgba(255,255,255,.12),
             font-size: 16px;
             transition: all .3s ease-out;
         }
+        .Logo_centered {
+          display: flex;
+          justify-content: center;
+        }
+        .Logo_centered > img {
+          margin: 0;
+          margin-top: -50px;
+          left: 0;
+        }
